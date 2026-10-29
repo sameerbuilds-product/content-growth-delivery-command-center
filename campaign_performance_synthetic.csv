@@ -1,0 +1,9 @@
+campaign_id,campaign_name,product_line,channel,spend_inr,impressions,clicks,conversions,attributed_revenue_inr,audience_segment
+CMP-001,New IP Launch,Content,Meta Ads,65000,920000,18400,3100,218000,New users
+CMP-002,Win-back Series,Retention,Push,12000,210000,12600,1900,87000,Lapsed listeners
+CMP-003,Continue Listening,Retention,In-app,18000,340000,22100,2800,126000,Active listeners
+CMP-004,Genre Discovery,Content,Email,9000,120000,7800,850,43000,Genre affinity
+CMP-005,Premium Trial,Subscription,WhatsApp,24000,160000,9600,1100,98000,High intent
+CMP-006,Creator Spotlight,Content,Organic,5000,450000,15750,920,51000,New users
+CMP-007,Dormant User Reactivation,Retention,Push,15000,275000,13750,1650,79000,Dormant 30d
+CMP-008,Season Finale,Content,Meta Ads,72000,1100000,22000,3500,244000,Genre affinity

@@ -1,0 +1,13 @@
+content_id,title,genre,launch_date,impressions,starts,completed_plays,avg_listen_min,episode_count,status
+IP-001,Midnight Promise,Thriller,2026-02-19,120364,29845,12789,9.0,107,Live
+IP-002,The Last Witness,Romance,2026-04-23,59662,14395,6792,14.4,112,In Production
+IP-003,Crown of Ashes,Drama,2026-07-09,50302,4307,1819,21.2,107,Launching
+IP-004,Second Chances,Fantasy,2026-08-04,151008,40863,15797,17.0,107,Launching
+IP-005,Hidden Truths,Comedy,2026-08-17,100047,9494,5972,6.6,47,Launching
+IP-006,Office Antics,Romance,2026-03-04,108848,28186,10708,18.0,39,Launching
+IP-007,Beyond the Rain,Thriller,2026-01-24,94485,12593,8429,16.4,120,Live
+IP-008,Silent Vows,Mystery,2026-09-07,57512,8330,3624,20.1,80,In Production
+IP-009,The Lost Heir,Mystery,2026-07-23,87993,24591,16696,10.4,100,Live
+IP-010,Unexpected Love,Thriller,2026-04-11,88408,12613,7354,9.7,59,Launching
+IP-011,Dark Horizon,Fantasy,2026-07-18,37441,6506,4603,9.3,93,Launching
+IP-012,A New Beginning,Fantasy,2026-01-09,109495,27902,12752,7.0,77,In Production
